@@ -1,0 +1,14 @@
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\bin\Debug\net8.0\W02.1.2O01.exe
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\bin\Debug\net8.0\W02.1.2O01.deps.json
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\bin\Debug\net8.0\W02.1.2O01.runtimeconfig.json
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\bin\Debug\net8.0\W02.1.2O01.dll
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\bin\Debug\net8.0\W02.1.2O01.pdb
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\W02.1.2O01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\W02.1.2O01.AssemblyInfoInputs.cache
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\W02.1.2O01.AssemblyInfo.cs
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\W02.1.2O01.csproj.CoreCompileInputs.cache
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\W02.1.2O01.dll
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\refint\W02.1.2O01.dll
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\W02.1.2O01.pdb
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\W02.1.2O01.genruntimeconfig.cache
+C:\Users\trhoo\Documents\GitHub\oodp-opdrachten\week2\W02.1.2O01\obj\Debug\net8.0\ref\W02.1.2O01.dll
