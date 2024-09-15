@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trhoo\\Documents\\Studie\\Semester_2\\Git\\oodp-opdrachten\\week2\\W02.1.2O01\\W02.1.2O01.csproj",
-      "projectName": "W02.1.2O01",
-      "projectPath": "C:\\Users\\trhoo\\Documents\\Studie\\Semester_2\\Git\\oodp-opdrachten\\week2\\W02.1.2O01\\W02.1.2O01.csproj",
+      "projectUniqueName": "C:\\Users\\trhoo\\Documents\\Studie\\Semester_2\\Git\\oodp-opdrachten\\week2\\W02.1.2O02\\W02.1.2O02.csproj",
+      "projectName": "W02.1.2O02",
+      "projectPath": "C:\\Users\\trhoo\\Documents\\Studie\\Semester_2\\Git\\oodp-opdrachten\\week2\\W02.1.2O02\\W02.1.2O02.csproj",
       "packagesPath": "C:\\Users\\trhoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trhoo\\Documents\\Studie\\Semester_2\\Git\\oodp-opdrachten\\week2\\W02.1.2O01\\obj\\",
+      "outputPath": "C:\\Users\\trhoo\\Documents\\Studie\\Semester_2\\Git\\oodp-opdrachten\\week2\\W02.1.2O02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trhoo\\AppData\\Roaming\\NuGet\\NuGet.Config",

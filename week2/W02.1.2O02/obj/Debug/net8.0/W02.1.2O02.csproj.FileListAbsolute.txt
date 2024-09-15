@@ -1,0 +1,15 @@
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\bin\Debug\net8.0\W02.1.2O02.exe
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\bin\Debug\net8.0\W02.1.2O02.deps.json
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\bin\Debug\net8.0\W02.1.2O02.runtimeconfig.json
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\bin\Debug\net8.0\W02.1.2O02.dll
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\bin\Debug\net8.0\W02.1.2O02.pdb
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.AssemblyInfoInputs.cache
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.AssemblyInfo.cs
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.csproj.CoreCompileInputs.cache
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.sourcelink.json
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.dll
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\refint\W02.1.2O02.dll
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.pdb
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\W02.1.2O02.genruntimeconfig.cache
+C:\Users\trhoo\Documents\Studie\Semester_2\Git\oodp-opdrachten\week2\W02.1.2O02\obj\Debug\net8.0\ref\W02.1.2O02.dll
